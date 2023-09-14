@@ -1,0 +1,17 @@
+h1 {
+   text-align: center;
+}
+
+#dashboard {
+   margin: auto;
+   border-collapse: collapse;
+}
+
+thead td {
+    font-weight: bold;
+}
+
+td {
+   border: 1px solid black;
+   padding: 5px;
+}
